@@ -1,0 +1,10 @@
+.display{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background: linear-gradient(to right, rgb(139, 51, 173), rgb(110, 72, 170));
+    grid-column: span 4;
+    color: #fff;
+    font-size: 1.6rem;
+    padding:10px 10px;
+}
