@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2d5fbcf.css",
+    "main.js": "/static/js/main.6c1602d6.js",
+    "static/media/RobotoMono-Thin.ttf": "/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
+    "index.html": "/index.html",
+    "main.e2d5fbcf.css.map": "/static/css/main.e2d5fbcf.css.map",
+    "main.6c1602d6.js.map": "/static/js/main.6c1602d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d5fbcf.css",
+    "static/js/main.6c1602d6.js"
+  ]
+}
